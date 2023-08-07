@@ -1,5 +1,5 @@
 # Project Objective:
-In this project, three different unsupervised learning clustering algorithms such as, K-means, Nearest Neighbor (NN) and DBScan were implemented from scratch WITHOUT using any clustering libraries API.
+In this project, three different unsupervised learning clustering algorithms such as, K-means, Nearest Neighbor (NN) and DBScan were implemented from scratch WITHOUT using any existing clustering libraries API.
 
 # Datasets:
 
